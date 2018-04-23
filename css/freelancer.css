@@ -414,3 +414,8 @@ hr.style17:after {
 p{
   font-size: 25px;
 }
+
+.middle{
+  margin-left: auto;
+  margin-right: auto;
+}
